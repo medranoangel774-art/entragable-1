@@ -1,0 +1,108 @@
+body{
+background-color:#FAF9EE;
+
+}
+
+#nav{ 
+    text-align: center;
+    border: 5px solid;
+    background-color:#A2AF9B;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100px;
+    width: 100%;
+    align-items: center;
+    border-radius: 9%;
+}
+
+ #contenido{
+    border: 5px solid #DCCFC0 ;
+    border-radius: 7%;
+    width: 100%;
+    height: 300px;
+    background-color: #EEEEEE;
+ }
+img{
+ height: 285px;
+ box-shadow: 5px 5px 15px;
+ float: left;
+ margin-right: 15px;
+ padding: 4px;
+ width: 200px;
+ border-radius: 10%;
+
+}
+
+#hobbies{
+
+    border: 5px solid #DCCFC0 ;
+    text-align: center;
+    border-radius: 7%;
+    align-items: center;
+    width: 100%;
+   
+}
+
+ul{
+    list-style-position: inside;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+
+
+table{
+
+border: 5px solid #DCCFC0 ;
+padding: 4px;
+align-items: center;
+width: 100%;
+border-radius: 10%;
+
+}
+
+th{
+
+    border: 5px solid #DCCFC0;
+    border-radius: 7%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: 5px 5px 15px;
+}
+
+td{
+   border: 5px solid #A2AF9B;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   border-radius: 7%;
+   box-shadow: 5px 5px 15px;
+
+}
+
+#Horario{
+     text-align: center;
+     border: 5px solid #DCCFC0;
+     width: 100%;
+     border-radius: 7%;
+}
+
+
+ #contacto{
+    border: 5px solid #DCCFC0;
+    border-radius: 9%;
+    width: 100%;
+    height: 250px;
+    text-align: center;
+ }
+
+ h2{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+ }
+
+ #footer{
+    border: 5px solid;
+    background-color:#EEEEEE ;
+    border-radius: 9%;
+ }
